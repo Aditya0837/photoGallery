@@ -1,1 +1,1 @@
-# photoGallery : https://sachinbiswal.github.io/photoGallery/
+# photoGallery : https://Aditya0837.github.io/photoGallery/
